@@ -1,2 +1,3 @@
 let s = 10;
-console.log(s)
+let p = 20;
+console.log(p)
